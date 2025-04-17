@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jin Myeong</h1>
+<h1 align="center">Hi 👋, I'm Jin MyeongJun</h1>
 <h3 align="center">🚀 Blockchain Developer & Backend Engineer</h3>
 
 ---
